@@ -1,0 +1,59 @@
+h2 {
+    font-family:arial;
+    margin: 20px 0 20px 50px;
+}
+
+h3 {
+    text-decoration:underline;
+}
+
+form {
+    display: inline-block;
+    margin-left:45px;
+}
+
+input {
+    height:25px;
+    font-size: 1em;
+}
+
+button {
+    display: inline-block;
+    height:25px;
+	width:80px;
+	background-color:#3ca305;
+	font-family:arial;
+	font-weight:bold;
+	color:#ffffff;
+	border-radius: 5px;
+	text-align:center;
+}
+
+ol li, ul li {
+	background: #eeeeee;
+	border-radius: 5px;
+	border: 1px solid black;
+	margin: 3px;
+	padding: 0.4em;
+	font-size: 1em;
+	height: 16px;
+    max-width:200px;
+	font-family: Verdana, Arial, Sans-Serif;
+}
+
+.buy {
+	font-family:garamond;
+	color:#3ca305;
+    min-height:80px;
+}
+
+
+.bought {
+	font-family:garamond;
+	color:#cc0000;
+    height:auto;
+}
+
+.black {
+    color:black;
+}
